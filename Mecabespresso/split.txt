@@ -1,0 +1,3 @@
+surface:複合	pos1:名詞	pos2:普通名詞	pos3:サ変可能	pos4:	cType:	cForm:	lForm:フクゴウ	lemma:複合	orth:複合	pron:フクゴー	orthBase:複合	pronBase:フクゴー	goshu:漢	iType:	iForm:	fType:	fForm:	iConType:	fConType:	lType:体	kana:フクゴウ	kanaBase:フクゴウ	form:フクゴウ	formBase:フクゴウ	aType:0	aConType:C2	aModType:	lid:8965976192328192	lemma_id:32618
+surface:名詞	pos1:名詞	pos2:普通名詞	pos3:一般	pos4:	cType:	cForm:	lForm:メイシ	lemma:名詞	orth:名詞	pron:メーシ	orthBase:名詞	pronBase:メーシ	goshu:漢	iType:	iForm:	fType:	fForm:	iConType:	fConType:	lType:体	kana:メイシ	kanaBase:メイシ	form:メイシ	formBase:メイシ	aType:0	aConType:C2	aModType:	lid:10247731872408064	lemma_id:37281
+EOS
