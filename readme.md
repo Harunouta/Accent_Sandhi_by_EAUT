@@ -1,4 +1,4 @@
-【これは何】<br>
+<h1>【これは何】</h1>
 このスクリプト群は日本語の複合名詞のアクセントを<br>
 アクセント単位形からアクセントを予測するものです。<br>
 <br>
@@ -18,7 +18,7 @@ input 0(non_strong) or 1(strong) example:0,1,1<br>
 アクセントの切れ目を予測し、複合名詞全体のアクセントを表示します。<br>
 (条件にkisokuを選ぶと、OPENJTALK、TASETを元にした規則ベースのアクセント合成を行います。)
 <br>
-【簡単な動作原理】<br>
+<h1>【簡単な動作原理】</h1>
 『ＮＨＫ日本語発音アクセント新辞典』の付録に記載の<br>
 「アクセント単位形」という考え方をコンピュータで使えないかと作成したものです。
 <br>
@@ -52,7 +52,8 @@ CRFによるアクセント単位形予測が<br>
 ※アクセント単位形の予測は<br>
 [『日本語話し言葉コーパス( Corpus of Spontaneous Japanese : CSJ ) 』](https://pj.ninjal.ac.jp/corpus_center/csj/)で学習しています。
 <br>
-【動作条件】<br>
+<br>
+<h1>【動作条件】</h1>
 [Mecab](https://taku910.github.io/mecab/)(-Overboseできるもの)、<br>
 [CRF++](https://taku910.github.io/crfpp/)<br>
 のpathが通っていることが動作条件です。<br>
