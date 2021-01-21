@@ -67,12 +67,12 @@ CRFsyori/CRFsyori.py および CRFsyori2/CRFsyori2.py でCRF++のコマンドを
 コマンドラインの返却値を利用するので、pythonでのコマンドライン結果を取得できるpython環境でご利用ください。<br>
 (pyenv等で指定されている場合は該当ディレクトリで設定されているpythonのパスと同じものを使用してください。)<br>
 <br>
-【使用方法】<br>
+<h1>【使用方法】</h1>
 ターミナルで<br>
 do.pyでCUI版を<br>
 GUI.pyでGUI版を実行できます。<br>
 
-【発表予定】<br>
+<h1>【発表予定】</h1>
 本研究は、<br>
 第83回情報処理学会全国大会<br>
 [学生セッション［7N会場］（3月20日（土）　13:10〜15:10）
@@ -82,7 +82,7 @@ GUI.pyでGUI版を実行できます。<br>
 ○青柳詠美，小島正樹（東京薬科大）](https://www.gakkai-web.net/gakkai/ipsj/83/program83.html#t4)
 で発表します。
 <br>
-【連絡先】
+<h2>【連絡先】</h2>
 東京薬科大学　生命科学研究科　生物情報科学研究室<br>
 青柳　詠美<br>
 s168002@icloud.com <br>
