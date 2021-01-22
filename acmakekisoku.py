@@ -4,7 +4,7 @@ from Mecabespresso import Mecabespresso
 from SAGISAKA import SAGISAKA
 from MIYAZAKI import MIYAZAKI
 from YURAGI import YURAGI
-from GiOPENJTALK import GiOPENJTALK
+from kisoku import kisoku
 
 #mecabの結果から実際に抽出する
 #word="第三セクター"
@@ -27,7 +27,7 @@ def acmake(word):
     for n in range(len(SUW)-1):
         a = line[n]
         b = line[n+1]
-        ku.append(GiOPENJTALK.Gi(Mecabespresso.pos1(a),Mecabespresso.pos1(b),Mecabespresso.pos2(a),Mecabespresso.pos2(b),Mecabespresso.pos3(a),Mecabespresso.pos3(b),Mecabespresso.orthBase(b),Mecabespresso.cForm(b),Mecabespresso.goshu(a),Mecabespresso.goshu(b),Mecabespresso.lType(a),Mecabespresso.lType(b)))
+        ku.append(kisoku.Gi(Mecabespresso.pos1(a),Mecabespresso.pos1(b),Mecabespresso.pos2(a),Mecabespresso.pos2(b),Mecabespresso.pos3(a),Mecabespresso.pos3(b),Mecabespresso.orthBase(b),Mecabespresso.cForm(b),Mecabespresso.goshu(a),Mecabespresso.goshu(b),Mecabespresso.lType(a),Mecabespresso.lType(b)))
     #print("accent:"+str(ku))
 
     #アクセント合成==================================

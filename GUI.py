@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import acmakeGiopenjtalk #数詞あり規則読みunidic
+import acmakekisoku #数詞あり規則読みunidic
 import acmakesurunidic
 import acmakephounidic
 
@@ -77,9 +77,9 @@ def do():
     global ans
     ans=""
     if var.get()==1:
-        #print(acmakeGiopenjtalk.acmake(word))
+        #print(kisoku.acmake(word))
         lab12.configure(state='active')
-        ans=str(acmakeGiopenjtalk.acmake(word))
+        ans=str(acmakekisoku.acmake(word))
         lab12["text"] = ans
     elif var.get()==2:
         st()

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import acmakeGiopenjtalk #数詞あり規則読みunidic
+import acmakekisoku #数詞あり規則読みunidic
 import acmakesurunidic
 import acmakephounidic
 
@@ -34,7 +34,7 @@ condition=input()
 
 #条件選択#出力
 if condition=="kisoku":
-    print(acmakeGiopenjtalk.acmake(word))
+    print(acmakekisoku.acmake(word))
 
 elif condition=="sur":
     strong=instrong(word)
