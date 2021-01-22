@@ -64,7 +64,6 @@ CRFによるアクセント単位形予測が<br>
 <br>
 <h1>【動作条件】</h1>
 [ Mecab ](https://taku910.github.io/mecab/)
-
 [ CRF++ ](https://taku910.github.io/crfpp/)
 
 のpathが通っていることが動作条件です。<br>
@@ -91,14 +90,12 @@ GUI.pyでGUI版を実行できます。<br>
 学生セッション［7N会場］（3月20日（土）　13:10〜15:10）<br>
 音声言語情報処理（2）<br>
 7N-02<br>
-[ アクセント単位形の推測を用いた日本語複合名詞のアクセント句の合成　](https://www.gakkai-web.net/gakkai/ipsj/83/program83.html#t4)
-
+[アクセント単位形の推測を用いた日本語複合名詞のアクセント句の合成](https://www.gakkai-web.net/gakkai/ipsj/83/program83.html#t4)
 ○青柳詠美，小島正樹（東京薬科大）<br>
 で発表します。
 <br>
 <h2>【連絡先】</h2>
 [ 東京薬科大学_生命科学研究科_生物情報科学研究室　](https://logos.ls.toyaku.ac.jp/~bioinfo/)
-
 青柳　詠美<br>
 s168002@icloud.com <br>
 utaharunomar17@gmail.com
