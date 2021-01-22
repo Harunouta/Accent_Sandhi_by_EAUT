@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#CRFで予測したアクセント句の強調可能性()
+#CRFで予測したアクセント句の強調可能性
 import subprocess
 
 """
