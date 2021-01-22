@@ -7,7 +7,7 @@ Accent Sandhi of Compound Nouns of Japanese by Estimating Accent Unit Types <br>
 アクセント単位形からアクセントを予測するものです。<br>
 <br>
 例:<br>
-~~~
+
 $ python do.py<br>
 複合名詞を入力してください。<br>
 長野新幹線車両センター<br>
@@ -18,11 +18,13 @@ input 0(non_strong) or 1(strong) example:0,1,1<br>
 <br>
 1,0,0,0,0<br>
 [[1, 10], ['ナガノ', 'シンカンセンシャリョーセンター'], ['長野', '新幹線車両センター']]
-~~~
 <br>
 のように0,1で話者の強調(としているパラメータ)とCRFで予測しているアクセント単位形から、<br>
 アクセントの切れ目を予測し、複合名詞全体のアクセントを表示します。<br>
-(条件にkisokuを選ぶと、[ OPENJTALK ](http://open-jtalk.sourceforge.net)、[ TASET ](https://sites.google.com/site/suzukimasayuki/accent)を元にした規則ベースのアクセント合成を行います。)
+(条件にkisokuを選ぶと、[ OPENJTALK ](http://open-jtalk.sourceforge.net)
+、
+[ TASET ](https://sites.google.com/site/suzukimasayuki/accent)
+を元にした規則ベースのアクセント合成を行います。)
 <br>
 <h1>【簡単な動作原理】</h1>
 『ＮＨＫ日本語発音アクセント新辞典』の付録に記載の<br>
