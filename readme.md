@@ -21,7 +21,7 @@ input 0(non_strong) or 1(strong) example:0,1,1<br>
 <br>
 のように0,1で話者の強調(としているパラメータ)とCRFで予測しているアクセント単位形から、<br>
 アクセントの切れ目を予測し、複合名詞全体のアクセントを表示します。<br>
-(条件にkisokuを選ぶと、[ OPENJTALK ](http://open-jtalk.sourceforge.net)
+(条件にkisokuを選ぶと、<a href= "http://open-jtalk.sourceforge.net" >OPENJTALK</a>
 、
 [ TASET ](https://sites.google.com/site/suzukimasayuki/accent)
 を元にした規則ベースのアクセント合成を行います。)
