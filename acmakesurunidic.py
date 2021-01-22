@@ -130,3 +130,4 @@ def acmake(word,strong):
 
 if __name__ == "__main__":
     main()
+    
