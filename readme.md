@@ -58,7 +58,7 @@ CRFによるアクセント単位形予測が<br>
 <br>
 <br>
 <h1>【動作条件】</h1>
-[Mecab](https://taku910.github.io/mecab/)-Overboseできるもの、<br>
+[-OverboseできるversionのMecab](https://taku910.github.io/mecab/)<br>
 [CRF++](https://taku910.github.io/crfpp/)<br>
 のpathが通っていることが動作条件です。<br>
 <br>
