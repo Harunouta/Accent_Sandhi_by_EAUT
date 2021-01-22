@@ -131,6 +131,7 @@ def acmake(word):
             #print(Mecabespresso.surface(line[n+1]))
             #print(zenbu)
 """
+#test
 if __name__ == "__main__":
     main()
 """
