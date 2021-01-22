@@ -64,14 +64,14 @@ CRFによるアクセント単位形予測が<br>
 <br>
 <h1>【動作条件】</h1>
 [ Mecab ](https://taku910.github.io/mecab/)
-<br>
+
 [ CRF++ ](https://taku910.github.io/crfpp/)
-<br>
+
 のpathが通っていることが動作条件です。<br>
 (-OverboseできるversionのMecabを使用してください。)<br>
 <br>
 また、Mecab辞書として[ unidic-cwj-2.3-2.0 ](https://unidic.ninjal.ac.jp/download#unidic_bccwj) 
-を<br>
+を
 使用します。ダウンロードしたディレクトリをこのreadmeと同じディレクトリに(unidic-cwj-2.3-2.0)という名前で置いて下さい。<br>
 (システム辞書のデフォルトに設定する必要はありません。)<br>
 <br>
@@ -92,13 +92,13 @@ GUI.pyでGUI版を実行できます。<br>
 音声言語情報処理（2）<br>
 7N-02<br>
 [ アクセント単位形の推測を用いた日本語複合名詞のアクセント句の合成　](https://www.gakkai-web.net/gakkai/ipsj/83/program83.html#t4)
-<br>
+
 ○青柳詠美，小島正樹（東京薬科大）<br>
 で発表します。
 <br>
 <h2>【連絡先】</h2>
 [ 東京薬科大学_生命科学研究科_生物情報科学研究室　](https://logos.ls.toyaku.ac.jp/~bioinfo/)
-<br>
+
 青柳　詠美<br>
 s168002@icloud.com <br>
 utaharunomar17@gmail.com
