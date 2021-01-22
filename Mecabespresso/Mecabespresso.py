@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-#単語からMecab-unidicを作成
+#単語からMecab-unidicを作成(2021/1/22現在最新のunidicを想定)
 import subprocess
 
 """
