@@ -23,7 +23,7 @@ input 0(non_strong) or 1(strong) example:0,1,1<br>
 アクセントの切れ目を予測し、複合名詞全体のアクセントを表示します。<br>
 (条件にkisokuを選ぶと、<a href= "http://open-jtalk.sourceforge.net" >OPENJTALK</a>
 、
-[ TASET ](https://sites.google.com/site/suzukimasayuki/accent)
+<a href= "https://sites.google.com/site/suzukimasayuki/accent" >TASET</a>
 を元にした規則ベースのアクセント合成を行います。)
 <br>
 <h1>【簡単な動作原理】</h1>
@@ -58,18 +58,18 @@ CRFによるアクセント単位形予測が<br>
 結果:[[1, 10], ['ナガノ', 'シンカンセンシャリョーセンター'], ['長野', '新幹線車両センター']]
 <br>
 ※アクセント単位形の予測は<br>
-[『日本語話し言葉コーパス( Corpus of Spontaneous Japanese : CSJ ) 』](https://pj.ninjal.ac.jp/corpus_center/csj/)
+<a href= "https://pj.ninjal.ac.jp/corpus_center/csj/" >『日本語話し言葉コーパス( Corpus of Spontaneous Japanese : CSJ ) 』</a>
 で学習しています。
 <br>
 <br>
 <h1>【動作条件】</h1>
-[ Mecab ](https://taku910.github.io/mecab/)
-[ CRF++ ](https://taku910.github.io/crfpp/)
-
+<a href= "https://taku910.github.io/mecab/" >Mecab</a>
+<a href= "https://taku910.github.io/crfpp/" >CRF++</a>
 のpathが通っていることが動作条件です。<br>
 (-OverboseできるversionのMecabを使用してください。)<br>
 <br>
-また、Mecab辞書として[ unidic-cwj-2.3-2.0 ](https://unidic.ninjal.ac.jp/download#unidic_bccwj) 
+また、Mecab辞書として
+<a href= "https://unidic.ninjal.ac.jp/download#unidic_bccwj" >unidic-cwj-2.3-2.0</a> 
 を
 使用します。ダウンロードしたディレクトリをこのreadmeと同じディレクトリに(unidic-cwj-2.3-2.0)という名前で置いて下さい。<br>
 (システム辞書のデフォルトに設定する必要はありません。)<br>
@@ -90,12 +90,12 @@ GUI.pyでGUI版を実行できます。<br>
 学生セッション［7N会場］（3月20日（土）　13:10〜15:10）<br>
 音声言語情報処理（2）<br>
 7N-02<br>
-[アクセント単位形の推測を用いた日本語複合名詞のアクセント句の合成](https://www.gakkai-web.net/gakkai/ipsj/83/program83.html#t4)
+<a href= "https://www.gakkai-web.net/gakkai/ipsj/83/program83.html#t4" >アクセント単位形の推測を用いた日本語複合名詞のアクセント句の合成</a>
 ○青柳詠美，小島正樹（東京薬科大）<br>
 で発表します。
 <br>
 <h2>【連絡先】</h2>
-[ 東京薬科大学_生命科学研究科_生物情報科学研究室　](https://logos.ls.toyaku.ac.jp/~bioinfo/)
+<a href= "https://logos.ls.toyaku.ac.jp/~bioinfo/" >東京薬科大学_生命科学研究科_生物情報科学研究室</a>
 青柳　詠美<br>
 s168002@icloud.com <br>
 utaharunomar17@gmail.com
