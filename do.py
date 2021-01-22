@@ -45,3 +45,4 @@ elif condition=="pho":
     print(acmakephounidic.acmake(word,strong))
 else:
     print("none")
+    
