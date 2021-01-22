@@ -1,4 +1,7 @@
-<title>Accent_Sandhi_by_EAUT</title>
+<h1>Accent_Sandhi_by_EAUT</h1>
+情報処理学会の発表で用いた<br>
+Accent Sandhi of Compound Nouns of Japanese by Estimating Accent Unit Types <br>
+をそこそこに省略したものです。
 <h1>【これは何】</h1>
 このスクリプト群は日本語の複合名詞のアクセントを<br>
 アクセント単位形からアクセントを予測するものです。<br>
@@ -84,7 +87,7 @@ GUI.pyでGUI版を実行できます。<br>
 で発表します。
 <br>
 <h2>【連絡先】</h2>
-東京薬科大学　生命科学研究科　生物情報科学研究室<br>
+[東京薬科大学　生命科学研究科　生物情報科学研究室](https://logos.ls.toyaku.ac.jp/~bioinfo/)<br>
 青柳　詠美<br>
 s168002@icloud.com <br>
 utaharunomar17@gmail.com
