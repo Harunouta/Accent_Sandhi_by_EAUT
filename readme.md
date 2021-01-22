@@ -20,7 +20,7 @@ input 0(non_strong) or 1(strong) example:0,1,1<br>
 <br>
 のように0,1で話者の強調(としているパラメータ)とCRFで予測しているアクセント単位形から、<br>
 アクセントの切れ目を予測し、複合名詞全体のアクセントを表示します。<br>
-(条件にkisokuを選ぶと、OPENJTALK、TASETを元にした規則ベースのアクセント合成を行います。)
+(条件にkisokuを選ぶと、[ OPENJTALK ](http://open-jtalk.sourceforge.net)、[ TASET ](https://sites.google.com/site/suzukimasayuki/accent)を元にした規則ベースのアクセント合成を行います。)
 <br>
 <h1>【簡単な動作原理】</h1>
 『ＮＨＫ日本語発音アクセント新辞典』の付録に記載の<br>
@@ -58,11 +58,12 @@ CRFによるアクセント単位形予測が<br>
 <br>
 <br>
 <h1>【動作条件】</h1>
-[-OverboseできるversionのMecab](https://taku910.github.io/mecab/)<br>
-[CRF++](https://taku910.github.io/crfpp/)<br>
+[ Mecab ](https://taku910.github.io/mecab/)<br>
+[ CRF++ ](https://taku910.github.io/crfpp/)<br>
 のpathが通っていることが動作条件です。<br>
+(-OverboseできるversionのMecabを使用してください。)<br>
 <br>
-また、Mecab辞書として[unidic-cwj-2.3-2.0](https://unidic.ninjal.ac.jp/download#unidic_bccwj) を<br>
+また、Mecab辞書として[ unidic-cwj-2.3-2.0 ](https://unidic.ninjal.ac.jp/download#unidic_bccwj) を<br>
 使用します。ダウンロードしたディレクトリをこのreadmeと同じディレクトリに(unidic-cwj-2.3-2.0)という名前で置いて下さい。<br>
 (システム辞書のデフォルトに設定する必要はありません。)<br>
 <br>
@@ -82,12 +83,12 @@ GUI.pyでGUI版を実行できます。<br>
 学生セッション［7N会場］（3月20日（土）　13:10〜15:10）
 音声言語情報処理（2）
 7N-02
-[アクセント単位形の推測を用いた日本語複合名詞のアクセント句の合成](https://www.gakkai-web.net/gakkai/ipsj/83/program83.html#t4)
+[ アクセント単位形の推測を用いた日本語複合名詞のアクセント句の合成　](https://www.gakkai-web.net/gakkai/ipsj/83/program83.html#t4)
 ○青柳詠美，小島正樹（東京薬科大）
 で発表します。
 <br>
 <h2>【連絡先】</h2>
-[東京薬科大学_生命科学研究科_生物情報科学研究室](https://logos.ls.toyaku.ac.jp/~bioinfo/)<br>
+[ 東京薬科大学_生命科学研究科_生物情報科学研究室　](https://logos.ls.toyaku.ac.jp/~bioinfo/)<br>
 青柳　詠美<br>
 s168002@icloud.com <br>
 utaharunomar17@gmail.com
