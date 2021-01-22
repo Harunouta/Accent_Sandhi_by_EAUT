@@ -24,7 +24,8 @@ input 0(non_strong) or 1(strong) example:0,1,1<br>
 (条件にkisokuを選ぶと、<a href= "http://open-jtalk.sourceforge.net" >OPENJTALK</a>
 、
 <a href= "https://sites.google.com/site/suzukimasayuki/accent" >TASET</a>
-を元にした規則ベースのアクセント(<a href= "https://search.ieice.org/bin/summary.php?id=j66-d_7_849" >匂坂ら(1983)</a>、<a href= " http://id.nii.ac.jp/1001/00015881/" >宮崎(1983)</a>)合成を行います。)
+を元にした規則ベースのアクセント(<a href= "https://search.ieice.org/bin/summary.php?id=j66-d_7_849" >匂坂ら(1983)</a>、
+<a href= "http://id.nii.ac.jp/1001/00015881/" >宮崎(1983)</a>)合成を行います。)
 <br>
 <h1>【簡単な動作原理】</h1>
 『ＮＨＫ日本語発音アクセント新辞典』の付録に記載の<br>
