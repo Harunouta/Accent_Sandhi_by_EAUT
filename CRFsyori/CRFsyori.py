@@ -1,4 +1,13 @@
 # -*- coding: utf-8 -*-
+##########
+###CRFsyori.py
+###作成者：青柳詠美
+###作成：2021/1月
+###version 0.1
+##作成環境：MacOS 10.14.6, Python:3.6.8
+###動作環境：MacOS 10.14.6,Python:3.5
+############
+
 #CRFで予測したアクセント句の強調可能性
 import subprocess
 
