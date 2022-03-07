@@ -1,4 +1,7 @@
 <h1>Accent_Sandhi_by_EAUT</h1>
+<a href= "https://github.com/Harunouta/Accent_Sandhi_by_EUAT_FULL" >2022.3現在、名詞以外の自立語にも対応したもの</a>を
+<br>
+公開しました。ぜひご活用ください。<br>
 情報処理学会の発表で用いた<br>
 Accent Sandhi of Compound Nouns of Japanese by Estimating Accent Unit Types <br>
 をそこそこに省略したものです。
