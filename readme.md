@@ -96,8 +96,7 @@ GUI.pyでGUI版を実行できます。<br>
 で発表します。
 <br>
 <h2>【連絡先】</h2>
-<a href= "https://logos.ls.toyaku.ac.jp/~bioinfo/" >東京薬科大学大学院_生命科学研究科_生物情報科学研究室</a>
+<s><a href= "https://logos.ls.toyaku.ac.jp/~bioinfo/" >東京薬科大学大学院_生命科学研究科_生物情報科学研究室</a></s>卒業しました。<br>
 青柳　詠美<br>
-s168002@toyaku.ac.jp<br>
-eimian97@icloud.com <br>
+<s>s168002@toyaku.ac.jp</s><br>
 utaharunomar17@gmail.com
